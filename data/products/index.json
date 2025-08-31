@@ -2,9 +2,9 @@
   "data": [
     {
       "id": 1,
-      "title": "Galaxy S25 Ultra 5G",
+      "title": "Galaxy S25 Ultra 5G (512GB)",
       "variant": "Titanium Black",
-      "price": 170000,
+      "price": 129500,
       "discount_price": 2976,
       "image": "https://twahidulislamdev.github.io/product-aip/images/phoneOne.jpg",
       "badge": "10%",
@@ -13,9 +13,20 @@
     },
     {
       "id": 2,
-      "title": "Galaxy S25 Ultra 5G",
+      "title": "iPhone 16 Pro Max (512GB)",
+      "variant": "Desart Titanium",
+      "price": 174500,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneFour.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 3,
+      "title": "Galaxy S25 Ultra 5G (256GB)",
       "variant": "Titanium White Silver",
-      "price": 170000,
+      "price": 112500,
       "discount_price": 3197,
       "image": "https://twahidulislamdev.github.io/product-aip/images/phoneTwo.jpg",
       "badge": "best seller",
@@ -23,29 +34,159 @@
       "created_at": "2025-07-21T11:52:39.552581"
     },
     {
-      "id": 3,
-      "title": "iPhone 16 Pro Max",
+      "id": 4,
+      "title": "iPhone 16 Pro Max(256GB)",
       "variant": "Black Titanium",
-      "price": 203000,
+      "price": 146500,
       "discount_price": 3197,
       "image": "https://twahidulislamdev.github.io/product-aip/images/phoneThree.jpg",
       "badge": "best seller",
       "updated_at": "2025-07-21T11:52:39.552581",
       "created_at": "2025-07-21T11:52:39.552581"
     },
-    
     {
-      "id": 4,
-      "title": "iPhone 16 Pro Max",
-      "variant": "White Titanium",
-      "price": 203000,
+      "id": 5,
+      "title": "Galaxy S25 5G(256GB)",
+      "variant": "Titanium Blue",
+      "price": 83000,
       "discount_price": 3197,
-      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneFour.jpg",
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneSeven.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+
+    {
+      "id": 6,
+      "title": "iPhone 16 Pro(256GB) ",
+      "variant": "White Titanium",
+      "price": 138000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneFive.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+     {
+      "id": 7,
+      "title": "Galaxy S25 5G(128GB)",
+      "variant": "Titanium Blue",
+      "price": 77000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneSeven.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 8,
+      "title": "iPhone 16 Pro(128GB) ",
+      "variant": "White Titanium",
+      "price": 126500,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneSix.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 9,
+      "title": "Galaxy A56 5G(256GB)",
+      "variant": "Black",
+      "price": 41700,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneEight.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 10,
+      "title": "iPhone 16 (256GB)  ",
+      "variant": "Blue Titanium",
+      "price": 117000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneEleven.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 11,
+      "title": "Galaxy A56 5G(128GB)",
+      "variant": "Black",
+      "price": 38500,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneEight.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 12,
+      "title": "iPhone 16 (128GB) ",
+      "variant": "Blue Titanium",
+      "price": 93000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneEleven.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 13,
+      "title": "Galaxy A36 5G(256GB)",
+      "variant": "",
+      "price": 34000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneNine.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 14,
+      "title": "iPhone 16e(128GB) ",
+      "variant": "white",
+      "price": 75000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneTen.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 15,
+      "title": "Pixel 9 Pro XL(512GB) ",
+      "variant": "white",
+      "price": 129000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneTwelve.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 16,
+      "title": "Pixel 9 Pro (512GB) ",
+      "variant": "white",
+      "price": 120000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneThirteen.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 16,
+      "title": "Pixel 9  (512GB) ",
+      "variant": "pink",
+      "price": 91000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneFourteen.jpg",
       "badge": "best seller",
       "updated_at": "2025-07-21T11:52:39.552581",
       "created_at": "2025-07-21T11:52:39.552581"
     }
-    
-    
   ]
 }
