@@ -1,119 +1,51 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "title": "Galaxy S25 Ultra 5G",
-            "variant": "Titanium Black",
-            "price": 170000,
-            "discount_price": 2976,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneOne.jpg",
-            "badge": "10%",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 2,
-            "title": "Galaxy S25 Ultra 5G",
-            "variant": "Titanium Gray",
-            "price": 170000,
-            "discount_price": 3303,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneTwo.jpg",
-            "badge": "hot",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 3,
-            "title": "Galaxy S25 Ultra 5G",
-            "variant": "Titanium JadeGreen",
-            "price": 170000,
-            "discount_price": 2642,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneThree.jpg",
-            "badge": "best seller",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 4,
-            "title": "Galaxy S25 Ultra 5G",
-            "variant": "Titanium PinkGold",
-            "price": 170000,
-            "discount_price": 1949,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneFour.jpg",
-            "badge": "new",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 5,
-            "title": "iPhone 16 Pro Max",
-            "variant": "Desert Titanium",
-            "price": 203000,
-            "discount_price": 3197,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneSeven.jpg",
-            "badge": "best seller",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 6,
-            "title": "iPhone 16 Pro Max",
-            "variant": "Black Titanium",
-            "price": 203000,
-            "discount_price": 3197,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneEight.jpg",
-            "badge": "best seller",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 7,
-            "title": "iPhone 16 Pro Max",
-            "variant": "Netural Titanium",
-            "price": 203000,
-            "discount_price": 3197,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneNine.jpg",
-            "badge": "best seller",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 8,
-            "title": "iPhone 16 Pro Max",
-            "variant": "White Titanium",
-            "price": 203000,
-            "discount_price": 3197,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneTen.jpg",
-            "badge": "best seller",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 9,
-            "title": "Galaxy S25 Ultra 5G",
-            "variant": "Titanium SilverBlue",
-            "price": 170000,
-            "discount_price": 3197,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneFive.jpg",
-            "badge": "best seller",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        },
-        {
-            "id": 10,
-            "title": "Galaxy S25 Ultra 5G",
-            "variant": "Titanium White Silver",
-            "price": 170000,
-            "discount_price": 3197,
-            "image": "https://twahidulislamdev.github.io/product-aip/images/phoneSix.jpg",
-            "badge": "best seller",
-            "updated_at": "2025-07-21T11:52:39.552581",
-            "created_at": "2025-07-21T11:52:39.552581"
-        }
-        
-        
-        
-        
-        
-    ]
+  "data": [
+    {
+      "id": 1,
+      "title": "Galaxy S25 Ultra 5G",
+      "variant": "Titanium Black",
+      "price": 170000,
+      "discount_price": 2976,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneOne.jpg",
+      "badge": "10%",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 2,
+      "title": "Galaxy S25 Ultra 5G",
+      "variant": "Titanium White Silver",
+      "price": 170000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneTwo.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    {
+      "id": 3,
+      "title": "iPhone 16 Pro Max",
+      "variant": "Black Titanium",
+      "price": 203000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneThree.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    },
+    
+    {
+      "id": 4,
+      "title": "iPhone 16 Pro Max",
+      "variant": "White Titanium",
+      "price": 203000,
+      "discount_price": 3197,
+      "image": "https://twahidulislamdev.github.io/product-aip/images/phoneFour.jpg",
+      "badge": "best seller",
+      "updated_at": "2025-07-21T11:52:39.552581",
+      "created_at": "2025-07-21T11:52:39.552581"
+    }
+    
+    
+  ]
 }
